@@ -1,0 +1,19 @@
+import React from 'react';
+
+const Heading = () => {
+  return (
+    <div className="w-full pt-12 pb-8 text-neutral-300 mx-auto text-center mb-6">
+      <h1 className="font-bold text-8xl">Crypto-Check</h1>
+      <h2 className="font-semibold text-4xl my-10 ">
+        Check the price of your favorite cryptocurrency
+      </h2>
+      <input
+        type="text"
+        placeholder="Currency name"
+        className="p-4 w-full max-w-xl focus:outline-none text-neutral-300 focus:bg-zinc-700 text-4xl rounded bg-zinc-800 transition-colors duration-300 "
+      />
+    </div>
+  );
+};
+
+export default Heading;
