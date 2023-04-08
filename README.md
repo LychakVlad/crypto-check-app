@@ -30,8 +30,6 @@ You can search for the currencies you're interested in and check their value, or
 - TAILWIND
 - CoinGeko API
 
-## What I got from this project
-
 ## Contact
 
 Vladislav Lychak - [@LinkedIn](https://www.linkedin.com/in/vladislav-lychak/) - lycakvladislav@gmail.com
