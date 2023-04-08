@@ -7,7 +7,7 @@ const Pagination = ({ coinsPerPage, totalCoins, paginate }) => {
     pageNumbers.push(i);
   }
   return (
-    <div className="flex justify-center py-10">
+    <div className="flex justify-center py-10 flex-wrap">
       {pageNumbers.map((number) => (
         <button
           key={number}

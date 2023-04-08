@@ -7,7 +7,7 @@ function App() {
   const [currentPage, setCurrentPage] = useState(1);
 
   return (
-    <div className="pb-20 bg-zinc-900 min-h-screen">
+    <div className="pb-20 bg-zinc-900 min-h-screen px-4">
       <Heading
         search={search}
         setSearch={setSearch}
