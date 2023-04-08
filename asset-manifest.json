@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/crypto-check-website/static/css/main.1fc2ac63.css",
-    "main.js": "/crypto-check-website/static/js/main.f7a1f7ec.js",
-    "index.html": "/crypto-check-website/index.html",
-    "main.1fc2ac63.css.map": "/crypto-check-website/static/css/main.1fc2ac63.css.map",
-    "main.f7a1f7ec.js.map": "/crypto-check-website/static/js/main.f7a1f7ec.js.map"
+    "main.css": "/crypto-check-app/static/css/main.1fc2ac63.css",
+    "main.js": "/crypto-check-app/static/js/main.f7a1f7ec.js",
+    "index.html": "/crypto-check-app/index.html",
+    "main.1fc2ac63.css.map": "/crypto-check-app/static/css/main.1fc2ac63.css.map",
+    "main.f7a1f7ec.js.map": "/crypto-check-app/static/js/main.f7a1f7ec.js.map"
   },
   "entrypoints": [
     "static/css/main.1fc2ac63.css",
