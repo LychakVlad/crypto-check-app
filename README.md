@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">
-  <a href="https://lychakvlad.github.io/portfolio-react-app/" target='_blank'>
+  <a href="https://lychakvlad.github.io/crypto-check-app/" target='_blank'>
     <img src="./src/assets/logo.png" alt="Logo" width='900'>
 
 <h3 align="center">Crypto-check website</h3>
@@ -10,10 +10,10 @@
   <p align="center">
     A site I created using the open API CoinGecko, React and Tailwind
     <br />
-    <a href="https://github.com/LychakVlad/crypto-check-website"><strong>Explore the code »</strong></a>
+    <a href="https://github.com/LychakVlad/crypto-check-app"><strong>Explore the code »</strong></a>
     <br />
     <br />
-    <a href="https://lychakvlad.github.io/portfolio-react-app/">View Demo</a>
+    <a href="https://lychakvlad.github.io/crypto-check-app/">View Demo</a>
   </p>
 </div>
 
@@ -34,7 +34,7 @@ You can search for the currencies you're interested in and check their value, or
 
 Vladislav Lychak - [@LinkedIn](https://www.linkedin.com/in/vladislav-lychak/) - lycakvladislav@gmail.com
 
-Project Link: [https://github.com/LychakVlad/crypto-check-website](https://github.com/LychakVlad/crypto-check-website)
+Project Link: [https://github.com/LychakVlad/crypto-check-app](https://github.com/LychakVlad/crypto-check-app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
