@@ -21,14 +21,13 @@
 
 ## About The Project
 
-The Crypto Check App is a web application that allows users to track the current prices and trends of various cryptocurrencies. This project is developed using technologies such as HTML, React, Tailwind, and the CoinGecko API.
+The Crypto Check App is a web application that allows users to track the current prices and trends of various cryptocurrencies. This project is developed using technologies such as React, Tailwind, and the CoinGecko API.
 
 The application is designed to be responsive and user-friendly. It has a simple and intuitive interface that displays the current prices and trends of cryptocurrencies, as well as historical data and charts.
 
 ### Built With
 
 - REACT JS
-- HTML5
 - TAILWIND
 - CoinGeko API
 
